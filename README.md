@@ -3,7 +3,7 @@
 </div>
 
 ***
-## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+## <div align="center">I'm j0nibaer 🐱, i code my Bot since 2020 and try to update it with many nice commands 👨‍💻</div>  
 ***
 <!---
 j0nibaer/j0nibaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
