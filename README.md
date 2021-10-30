@@ -1,6 +1,7 @@
 <div align="center" style"border-radius:15px">
-  <img src="!https://lh3.googleusercontent.com/8f7uvs_CaHkDkdbYoW9SL2jLTtPzakomCFD3uJRziOnQO6bStljA2HLp989PoDosIX-G0g=s170" style"width: 100%;border-radius:15px">
+  <img src="https://user-images.githubusercontent.com/68662326/139536366-fa03edfb-bc80-4d36-975d-f2568426ee81.png" style"width: 100%;border-radius:15px">
 </div>
+
 - 👋 Hi, I’m @j0nibaer 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
