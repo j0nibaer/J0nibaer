@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="!https://user-images.githubusercontent.com/68662326/139536190-72613fbf-59f2-4a21-ba36-fc493ff94a95.png" style"width: 100%;border-radius:15px">
+  <img src="!https://lh3.googleusercontent.com/8f7uvs_CaHkDkdbYoW9SL2jLTtPzakomCFD3uJRziOnQO6bStljA2HLp989PoDosIX-G0g=s170" style"width: 100%;border-radius:15px">
 </div>
 - 👋 Hi, I’m @j0nibaer 
 - 👀 I’m interested in ...
