@@ -1,3 +1,6 @@
+<div align="center" style"border-radius:15px">
+  <img src="https://cdn.discordapp.com/attachments/895902603580440596/903991233146396722/2021-10-30.png?size=4096" style"width: 100%;border-radius:15px">
+</div>
 - 👋 Hi, I’m @j0nibaer 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
