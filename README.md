@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/attachments/895902603580440596/903991233146396722/2021-10-30.png?size=4096" style"width: 100%;border-radius:15px">
+  <img src="!https://user-images.githubusercontent.com/68662326/139536190-72613fbf-59f2-4a21-ba36-fc493ff94a95.png" style"width: 100%;border-radius:15px">
 </div>
 - 👋 Hi, I’m @j0nibaer 
 - 👀 I’m interested in ...
