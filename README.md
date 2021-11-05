@@ -7,4 +7,4 @@
 ***
 - 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to learn soon how to make Websites
-- 🤖I'm currently coding [**JoniBot**](https//dsc.gg/jonibot) 
+- 🤖I'm currently coding [**JoniBot**](https://discord.com/oauth2/authorize?client_id=825037391336964157&permissions=322566&scope=bot) 
