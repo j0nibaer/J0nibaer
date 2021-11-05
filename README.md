@@ -5,5 +5,6 @@
 ***
 ## <div align="center">I'm j0nibaer 🐱, i code my Bot since 2020 and try to update it with many nice commands 👨‍💻</div>  
 ***
-- 👩‍💻 I'm currenctly coding with Javascript
+- 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to learn soon how to make Websites
+- 🤖I'm currently coding [**JoniBot**](https//dsc.gg/jonibot) 
