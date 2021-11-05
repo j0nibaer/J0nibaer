@@ -5,8 +5,5 @@
 ***
 ## <div align="center">I'm j0nibaer 🐱, i code my Bot since 2020 and try to update it with many nice commands 👨‍💻</div>  
 ***
-<!---
-j0nibaer/j0nibaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-_*About the Bot:*_
+- 👩‍💻 I'm currenctly coding with Javascript
+- 🖼 I want to learn soon how to make Websites
