@@ -3,7 +3,7 @@
 </div>
 
 ***
-## <div align="center">I'm j0nibaer 🐱, i code my Bot since 2021and try to update it with many nice commands 👨‍💻</div>  
+## <div align="center">I'm j0nibaer 🐱, i code my Bot since 2021 and try to update it with many nice commands 👨‍💻</div>  
 ***
 - 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to learn soon how to make Websites
