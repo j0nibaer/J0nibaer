@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://jonibot.tk/botimages/j0nibaer%20-%20Profil.png" style"width: 100%;border-radius:15px">
+  <img src="https://jonibot.tk/images/Banner.png" style"width: 100%;border-radius:15px">
 </div>
 
 ***
