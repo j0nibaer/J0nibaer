@@ -9,7 +9,7 @@
 - 🖼 I want to learn soon how to make Websites
 - 🤖I'm currently coding [**JoniBot**](https://discord.com/oauth2/authorize?client_id=825037391336964157&permissions=322566&scope=bot) and [**JoniGlobal**](https://discord.com/oauth2/authorize?client_id=820287636098121729&permissions=448824470609&scope=bot)
 ***
-## [**SupportServer ❓**](https://discord.jonibot.tk)
+## [**SupportServer ❓**](https://discord.j0nibaer.tk)
 
 
 
